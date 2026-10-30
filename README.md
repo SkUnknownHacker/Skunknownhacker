@@ -1,61 +1,178 @@
-<p align="center"> <img src="assets/header.svg" width="100%" alt="Sumit Kumar Header" /> </p>
+<!-- README.md -->
 
-<p align="center"> <a href="https://github.com/SkUnknownHacker"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&text=I%27m%20Sumit%20Kumar%20%F0%9F%91%8B;%20Computer%20Science%20Student%20%26%20Developer%20%F0%9F%92%BB" width="100%" style="max-width: 620px;" alt="Typing SVG" /> </a> </p>
+<div align="center">
 
-<p align="center"> <a href="https://www.linkedin.com/in/findmeally" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /> </a> <a href="https://instagram.com/findmeally" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" /> </a> <a href="mailto:sk502986@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /> </a> <a href="https://skunknownhackerportfolio.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0a0a" alt="Portfolio" /> </a> <a href="https://github.com/SkUnknownHacker" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" /> </a> </p>
+```
+ ██╗  ██╗███████╗██████╗ ███╗   ███╗███████╗███████╗██╗  ██╗██╗   ██╗
+ ██║  ██║██╔════╝██╔══██╗████╗ ████║██╔════╝██╔════╝██║  ██║██║   ██║
+ ███████║█████╗  ██████╔╝██╔████╔██║█████╗  ███████╗███████║██║   ██║
+ ██╔══██║██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══╝  ╚════██║██╔══██║██║   ██║
+ ██║  ██║███████╗██║  ██║██║ ╚═╝ ██║███████╗███████║██║  ██║╚██████╔╝
+ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
+```
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SkUnknownHacker&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" /> </p>
+[
 
-<h2 align="center"> About Me</h2>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&text=Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" /></p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;%3E+Andy+%7C+SK+TECH+Founder;%3E+CSE+Student+%40+KIT+Kanpur;%3E+Script+Dev+%7C+Bot+Builder;%3E+Hacking+the+Matrix+since+day+one...;%24+_)
 
-<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" /> </p>
+](https://git.io/typing-svg)
 
-<p align="center"> Hey! I'm <b>Sumit Kumar</b>, a passionate <b>Computer Science student & developer</b> based in Kanpur.<br /> I specialize in building web applications and exploring modern technologies to solve real-world problems. </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-111111?style=flat-square" alt="Status" /> <img src="https://img.shields.io/badge/Location-Kanpur-DC2626?style=flat-square" alt="Location" /> <img src="https://img.shields.io/badge/Focus-Web%20Development-111111?style=flat-square" alt="Focus" /> </p>
 
-<table width="100%" border="0" align="center"> 
-<tr>
-<td width="50%" align="center" style="padding: 14px;"><h4>Flagship Project</h4><p><a href="https://findmeally.com" target="_blank"><b>Andy Inspector</b></a><br /><sub>Web Application & Utility Tool</sub></p></td> 
-<td width="50%" align="center" style="padding: 14px;"><h4>Portfolio</h4><p><a href="https://skunknownhackerportfolio.netlify.app" target="_blank"><b>Live Portfolio</b></a><br /><sub>Explore My Work</sub></p></td> 
-</tr>
-</table>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=andysk.andysk&color=00ff41&labelColor=000000&label=VISITORS)
 
-<h2 align="center">Featured Project Spotlight</h2>
-<table width="100%" border="0" align="center"> 
-<tr><td align="center" style="padding: 22px;"><h3>Andy Inspector</h3> <p><i>A feature-rich web application designed to deliver efficient solutions and seamless user experience.</i></p><br /> <p> <a href="https://findmeally.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" /> </a> <a href="https://github.com/SkUnknownHacker" target="_blank"> <img src="https://img.shields.io/badge/Source%20Code-%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" /> </a> </p> </td> </tr>
-</table>
 
-<h2 align="center">Tech Stack & Skills</h2>
-<p align="center"><b>Core Programming Languages</b></p> 
-<p align="center"> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" /> </a> </p>
 
-<p align="center"><b>Frontend & Mobile Development</b></p>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" /> </a> </p>
 
-<p align="center"><b>Backend, Cloud & Databases</b></p>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" /> </a></p>
+![GitHub followers](https://img.shields.io/github/followers/andysk?color=00FF41&labelColor=000000&style=flat&label=FOLLOWERS)
 
-<p align="center"><b>Tools & DevOps</b></p>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" /> </a> </p>
 
-<h2 align="center">GitHub Analytics & Activity</h2>
-<p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=SkUnknownHacker&show_icons=true&bgcolor=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444" width="100%" style="max-width: 440px;" alt="GitHub Stats" /> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SkUnknownHacker&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444" width="100%" style="max-width: 350px;" alt="Top Languages" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkUnknownHacker&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444" width="100%" style="max-width: 480px;" alt="GitHub Streak" /> </p>
 
-<h2 align="center">Contribution Journey</h2>
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" /> </p>
+</div>
 
-<h2 align="center">Let's Connect & Collaborate</h2>
-<p align="center"><i>Whether you want to discuss a project, explore open-source collaboration, or just say hello, my inbox is always open!</i></p>
+---
 
-<table border="0" align="center"> 
-<tr>
-<td align="center" width="220" style="padding: 16px;"> <a href="https://www.linkedin.com/in/findmeally" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /> <br /><br /> <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /> </a> <br /> <sub><b>Professional Network</b></sub> </td>
-<td align="center" width="220" style="padding: 16px;"> <a href="https://instagram.com/findmeally" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" /> <br /><br /> <img src="https://img.shields.io/badge/Instagram-@findmeally-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" /> </a> <br /> <sub><b>Social Handle</b></sub> </td> 
-<td align="center" width="220" style="padding: 16px;"> <a href="mailto:sk502986@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" /> <br /><br /> <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /> </a> <br /> <sub><b>Direct Collaboration</b></sub> </td>
-</tr>
-</table>
+<img align="right" width="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 
-<p align="center"> <img src="assets/footer.svg" width="100%" alt="Footer" /> </p>
+```bash
+┌──(andy㉿sk-tech)-[~/void]
+│
+├── 🎯  whoami      → Andy | Founder @ SK TECH
+├── 📍  location    → Kanpur, Uttar Pradesh, IN
+├── 🎓  study       → CSE @ Kanpur Institute of Technology
+├── 💻  work        → Scripts • Bots • Digital Tools
+├── 🛒  store       → sktechtools.netlify.app
+├── 📱  telegram    → @SK_TECH_GAMER_YT
+├── ⚡  status      → Always building. Never stopping.
+└── 🔥  motto       → "Code is the only real magic."
+```
+
+---
+
+<div align="center">
+
+### `> INITIALIZING SKILL MATRIX...`
+
+
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
+
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
+
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
+
+
+
+
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)
+
+
+
+
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00FF41)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+
+
+
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+
+
+
+
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+### `> RUNNING DIAGNOSTICS...`
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andysk&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andysk&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41"/>
+
+</div>
+
+<div align="center">
+
+[
+
+![GitHub Streak](https://streak-stats.demolab.com?user=andysk&theme=matrix&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41)
+
+](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+### `> CONTRIBUTION GRID LOADING...`
+
+
+
+![Snake animation](https://raw.githubusercontent.com/andysk/andysk/output/github-contribution-grid-snake-dark.svg)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+### `> CONNECT TO THE NETWORK`
+
+[
+
+![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF41&label=SK_TECH_GAMER_YT)
+
+](https://t.me/SK_TECH_GAMER_YT)
+[
+
+![Website](https://img.shields.io/badge/SK_TECH_STORE-000000?style=for-the-badge&logo=netlify&logoColor=00FF41)
+
+](https://sktechtools.netlify.app)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> SYSTEM STATUS: ONLINE ████████████████ 100%
+> COFFEE LEVEL:  ████████████░░░░  75%
+> GRIND MODE:    ██████████████████ MAXIMUM
+> 
+> "Every line of code is a door. I build the keys."
+> 
+> [andy@sk-tech ~]$ _
+```
+
+</div>
